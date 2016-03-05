@@ -5,6 +5,7 @@ import (
   "time"
   )
 
+// Test printing commands with time functions
 func main () {
   fmt.Println("Hello, we are Holberton School")
   fmt.Printf("the date is %v\n", time.Now())
